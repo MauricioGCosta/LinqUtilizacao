@@ -1,0 +1,11 @@
+C:\Temp\LinqUtilizacao\LinqUtilizacao\bin\Debug\netcoreapp2.2\LinqUtilizacao.deps.json
+C:\Temp\LinqUtilizacao\LinqUtilizacao\bin\Debug\netcoreapp2.2\LinqUtilizacao.runtimeconfig.json
+C:\Temp\LinqUtilizacao\LinqUtilizacao\bin\Debug\netcoreapp2.2\LinqUtilizacao.runtimeconfig.dev.json
+C:\Temp\LinqUtilizacao\LinqUtilizacao\bin\Debug\netcoreapp2.2\LinqUtilizacao.dll
+C:\Temp\LinqUtilizacao\LinqUtilizacao\bin\Debug\netcoreapp2.2\LinqUtilizacao.pdb
+C:\Temp\LinqUtilizacao\LinqUtilizacao\obj\Debug\netcoreapp2.2\LinqUtilizacao.csprojAssemblyReference.cache
+C:\Temp\LinqUtilizacao\LinqUtilizacao\obj\Debug\netcoreapp2.2\LinqUtilizacao.csproj.CoreCompileInputs.cache
+C:\Temp\LinqUtilizacao\LinqUtilizacao\obj\Debug\netcoreapp2.2\LinqUtilizacao.AssemblyInfoInputs.cache
+C:\Temp\LinqUtilizacao\LinqUtilizacao\obj\Debug\netcoreapp2.2\LinqUtilizacao.AssemblyInfo.cs
+C:\Temp\LinqUtilizacao\LinqUtilizacao\obj\Debug\netcoreapp2.2\LinqUtilizacao.dll
+C:\Temp\LinqUtilizacao\LinqUtilizacao\obj\Debug\netcoreapp2.2\LinqUtilizacao.pdb
